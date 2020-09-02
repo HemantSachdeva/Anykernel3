@@ -8,9 +8,9 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=1
-device.name1=
+device.name1=laurel_sprout
 device.name2=
-supported.versions=
+supported.versions=10.0
 supported.patchlevels=
 '; }
 
