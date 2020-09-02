@@ -1,8 +1,8 @@
-NAME ?= Stormbreaker
+NAME ?=  Pepe
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := 2.0
+CODE := 1.0
 
 KERNELVERSION := $(shell cat ../Makefile | grep VERSION | head -n 1 | sed "s|.*=||1" | sed "s| ||g")
 
