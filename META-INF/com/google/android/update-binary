@@ -394,7 +394,6 @@ ui_print "    |  \/||  \  |  \/||  \             ";
 ui_print "    |  __/|  /_ |  __/|  /_            ";
 ui_print "     \_/   \____\\_/   \____\          ";
 ui_print "                                       ";
-ui_print "=======================================";
 ui_print "$(file_getprop anykernel.sh kernel.string)";
 ui_print "       By @thedenomparkour             ";
 ui_print "                                       ";
